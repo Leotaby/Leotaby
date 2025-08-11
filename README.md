@@ -1,4 +1,4 @@
-e<img src="d6e7ce13-2509-463f-b872-7d37dc1d779f.png" alt="Finance themed banner" style="width:100%; border-radius:8px;"/>
+<img src="d6e7ce13-2509-463f-b872-7d37dc1d779f.png" alt="Finance themed banner" style="width:100%; border-radius:8px;"/>
 
 <h1 align="center">Hi there, I'm Hatef Tabakhian 👋</h1>
 
