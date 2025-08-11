@@ -1,4 +1,4 @@
-<img src="d6e7ce13-2509-463f-b872-7d37dc1d779f.png" alt="Finance themed banner" style="width:100%; border-radius:8px;"/>
+e<img src="d6e7ce13-2509-463f-b872-7d37dc1d779f.png" alt="Finance themed banner" style="width:100%; border-radius:8px;"/>
 
 <h1 align="center">Hi there, I'm Hatef Tabakhian 👋</h1>
 
@@ -56,3 +56,14 @@ Whether you'd like to talk about finance, research, law or just say hello, feel 
 ---
 
 *Thanks for visiting my profile!*
+
+
+### 🏆 GitHub Trophies
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=Leotaby&theme=algolia&no-bg=true&margin-w=5)](https://github.com/ryo-ma/github-profile-trophy)
+
+### 📊 GitHub Stats
+
+![](https://github-readme-stats.vercel.app/api?username=Leotaby&theme=algolia&show_icons=true)
+
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Leotaby&theme=algolia&layout=compact)
