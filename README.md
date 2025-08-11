@@ -1,6 +1,6 @@
 <img src="d6e7ce13-2509-463f-b872-7d37dc1d779f.png" alt="Finance themed banner" style="width:100%; border-radius:8px;"/>
 
-<h1 align="center">Hi, I'm HATEF (LEO)👋</h1>
+<h1 align="center">Hi, I'm HATEF👋</h1>
 
 <p align="center">
   <a href="https://linkedin.com/in/hateftaby"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
