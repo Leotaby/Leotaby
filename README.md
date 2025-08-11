@@ -67,3 +67,12 @@ Whether you'd like to talk about finance, research, law or just say hello, feel 
 ![](https://github-readme-stats.vercel.app/api?username=Leotaby&theme=algolia&show_icons=true)
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Leotaby&theme=algolia&layout=compact)
+
+
+### Updated GitHub Achievements
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=Leotaby&theme=algolia&no-bg=true&margin-w=5)](https://github.com/ryo-ma/github-profile-trophy)
+
+![Hatef's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Leotaby&theme=algolia&show_icons=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Leotaby&layout=compact&theme=algolia)
