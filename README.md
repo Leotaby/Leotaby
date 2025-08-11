@@ -9,7 +9,7 @@
 </p>
 <!-- Typing line -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&pause=1500&color=FFD700&center=true&vCenter=true&width=900&lines=Economics+%26+Finance+%E2%80%A2+Risk+%E2%80%A2+Macro;Python+%26+R+for+econometrics;Low-latency+C%2B%2B+experiments;Open+to+internship%2Fgraduate+roles+around+the+world" alt="typing"/>
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&pause=1500&color=FFD700&center=true&vCenter=true&width=900&lines=Economics+%26+Finance+%E2%80%A2+Risk+%E2%80%A2+Macro;Python+%26+R+for+econometrics;Low-latency+C%2B%2B+experiments;Open+to+internship%2Fgraduate+roles+around+the+world"alt="typing"/>
 </p>
 
 ---
