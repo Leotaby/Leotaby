@@ -1,3 +1,5 @@
+<img align="right" src="https://komarev.com/ghpvc/?username=Leotaby&label=Profile%20views&color=FF0000&style=flat" alt="Profile views" />
+
 <h1 align="center">Hi, I'm HATEF👋</h1>
 
 <p align="center">
