@@ -57,22 +57,6 @@
 
 ---
 
-### 📊 By the numbers
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Leotaby&show_icons=true&theme=tokyonight&hide_border=false&border_color=FFD700&rank_icon=github" height="170" alt="stats"/>
-</p>
-<p align="center">
-</p>
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Leotaby&theme=onestar&no-frame=true&margin-w=10&row=1&column=6" alt="trophies"/>
-</p>
-
-<!-- Footer -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=140&color=0:111111,100:111111&section=footer" alt="footer"/>
-</p>
-
-
 ### 📈 Activity (live)
 
 <p align="center">
