@@ -71,3 +71,13 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&height=140&color=0:111111,100:111111&section=footer" alt="footer"/>
 </p>
 
+
+### 📈 Activity (live)
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Leotaby&show_icons=true&title_color=FF1744&text_color=C9D1D9&icon_color=FF1744&bg_color=0D0D0D&border_color=FF1744" height="160" alt="stats"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Leotaby&bg_color=0D0D0D&color=C9D1D9&line=FF1744&point=FF1744&area=true&hide_border=true" alt="activity-graph"/>
+</p>
