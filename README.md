@@ -9,7 +9,7 @@
 </p>
 <!-- Typing line -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&pause=1500&color=FFD700&center=true&vCenter=true&width=900&lines=Economics+%26+Finance+%E2%80%A2+Risk+%E2%80%A2+Macro;Python+%26+R+for+econometrics;Low-latency+C%2B%2B+experiments"alt="typing"/>
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&pause=1500&color=FFD700&center=true&vCenter=true&width=900&lines=Economics+%26+Finance+%E2%80%A2+Risk+%E2%80%A2+Macro;Python,+R+%26+Stata+for+econometrics;Low-latency+C%2B%2B+experiments"alt="typing"/>
 </p>
 <p align="center">
   <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSKEqWHa3dEBugO64qyRWy-1mn7k8xM--Fbpw&s" alt="My image" width="300" />
@@ -18,7 +18,7 @@
 ### 🧭 About me
 - 📍 Based in Naples • open to World opportunities  
 - 🎓 MSc Economics & Finance (macro + bank stability)  
-- 🧰 Tooling: Python (pandas, NumPy, statsmodels), R, SQL, C++, Linux, Git  
+- 🧰 Tooling: Python (pandas, NumPy, statsmodels), R, Stata, SQL, C++, Linux, Git  
 - 🎯 Interests: risk & capital, econometrics, market microstructure, automation
 
 ---
