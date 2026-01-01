@@ -1,6 +1,6 @@
 <img align="right" src="https://komarev.com/ghpvc/?username=Leotaby&label=Profile%20views&color=FF0000&style=flat" alt="Profile views" />
 
-<h1 align="center">Hi, I'm Leo (Hatef) 👋</h1>
+<h1 align="center">Hi, I'm Hatef 👋</h1>
 
 <p align="center">
   <a href="https://linkedin.com/in/hateftaby">
