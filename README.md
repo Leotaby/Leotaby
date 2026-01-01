@@ -37,23 +37,11 @@
     <img src="https://img.shields.io/badge/BankLab-00FFFF?style=for-the-badge&labelColor=8A2BE2&color=8A2BE2&logo=github&logoColor=00FFFF" alt="BankLab" />
   </a>
 </p>
-
 <p align="center">
-  <a href="https://github.com/Leotaby/nasdaq-itch-parser">
-    <img src="https://img.shields.io/badge/nasdaq--itch--parser-00FFFF?style=for-the-badge&labelColor=8A2BE2&color=8A2BE2&logo=github&logoColor=00FFFF" alt="nasdaq-itch-parser" />
-  </a>
-  &nbsp;&nbsp;
   <a href="https://github.com/Leotaby/matching-engine">
     <img src="https://img.shields.io/badge/matching--engine-00FFFF?style=for-the-badge&labelColor=8A2BE2&color=8A2BE2&logo=github&logoColor=00FFFF" alt="matching-engine" />
   </a>
 </p>
-
-<p align="center">
-  <a href="https://github.com/Leotaby/latency-cpp-portfolio">
-    <img src="https://img.shields.io/badge/latency--cpp--portfolio-00FFFF?style=for-the-badge&labelColor=8A2BE2&color=8A2BE2&logo=github&logoColor=00FFFF" alt="latency-cpp-portfolio" />
-  </a>
-</p>
-
 <p align="center">
   <a href="https://github.com/Leotaby/macro-bank-stability-panel">
     <img src="https://img.shields.io/badge/macro--bank--stability--panel-00FFFF?style=for-the-badge&labelColor=8A2BE2&color=8A2BE2&logo=github&logoColor=00FFFF" alt="macro-bank-stability-panel" />
