@@ -15,7 +15,7 @@
 </p>
 
 <p align="center">
-  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSKEqWHa3dEBugO64qyRWy-1mn7k8xM--Fbpw&s" width="200" alt="Hatef's Photo" />
+  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSKEqWHa3dEBugO64qyRWy-1mn7k8xM--Fbpw&s" width="300" alt="Hatef's Photo" />
 </p>
 
 ### 🧭 About me
@@ -32,31 +32,43 @@
 <!-- A simple finance chart emoji to evoke neon candlesticks -->
 <p align="center">💹</p>
 
-<!-- Each repository is represented by a neon‑styled badge on its own row -->
-<p align="center">
-  <a href="https://github.com/Leotaby/nasdaq-itch-parser">
-    <img src="https://img.shields.io/badge/nasdaq--itch--parser-00FFFF?style=for-the-badge&labelColor=0D1117&logo=github&logoColor=FFFFFF" alt="nasdaq-itch-parser" />
-  </a>
-  <a href="https://github.com/Leotaby/matching-engine">
-    <img src="https://img.shields.io/badge/matching--engine-00FFFF?style=for-the-badge&labelColor=0D1117&logo=github&logoColor=FFFFFF" alt="matching-engine" />
-  </a>
-</p>
+<!-- Row 1 -->
 <p align="center">
   <a href="https://github.com/Leotaby/BankLab">
     <img src="https://img.shields.io/badge/BankLab-00FFFF?style=for-the-badge&labelColor=0D1117&logo=github&logoColor=FFFFFF" alt="BankLab" />
   </a>
+</p>
+
+<!-- Row 2 -->
+<p align="center">
+  <a href="https://github.com/Leotaby/nasdaq-itch-parser">
+    <img src="https://img.shields.io/badge/nasdaq--itch--parser-00FFFF?style=for-the-badge&labelColor=0D1117&logo=github&logoColor=FFFFFF" alt="nasdaq-itch-parser" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://github.com/Leotaby/matching-engine">
+    <img src="https://img.shields.io/badge/matching--engine-00FFFF?style=for-the-badge&labelColor=0D1117&logo=github&logoColor=FFFFFF" alt="matching-engine" />
+  </a>
+</p>
+
+<!-- Row 3 (Latency centered) -->
+<p align="center">
   <a href="https://github.com/Leotaby/latency-cpp-portfolio">
     <img src="https://img.shields.io/badge/latency--cpp--portfolio-00FFFF?style=for-the-badge&labelColor=0D1117&logo=github&logoColor=FFFFFF" alt="latency-cpp-portfolio" />
   </a>
 </p>
+
+<!-- Row 4 -->
 <p align="center">
   <a href="https://github.com/Leotaby/macro-bank-stability-panel">
     <img src="https://img.shields.io/badge/macro--bank--stability--panel-00FFFF?style=for-the-badge&labelColor=0D1117&logo=github&logoColor=FFFFFF" alt="macro-bank-stability-panel" />
   </a>
+  &nbsp;&nbsp;
   <a href="https://github.com/Leotaby/hedge-fund-credit-risk">
     <img src="https://img.shields.io/badge/hedge--fund--credit--risk-00FFFF?style=for-the-badge&labelColor=0D1117&logo=github&logoColor=FFFFFF" alt="hedge-fund-credit-risk" />
   </a>
 </p>
+
+<!-- Row 5 -->
 <p align="center">
   <a href="https://github.com/Leotaby/Indirect-Tax-Portfolio">
     <img src="https://img.shields.io/badge/Indirect--Tax--Portfolio-00FFFF?style=for-the-badge&labelColor=0D1117&logo=github&logoColor=FFFFFF" alt="Indirect-Tax-Portfolio" />
