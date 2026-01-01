@@ -1,84 +1,82 @@
-<img align="right" src="https://komarev.com/ghpvc/?username=Leotaby&label=Profile%20views&color=FF00FF&style=flat" alt="Profile views" />
+<img align='right' src='https://komarev.com/ghpvc/?username=Leotaby&label=Profile%20views&color=FF00FF&style=flat' alt='Profile views' />
 
-<h1 align="center">Hi, I'm Hatef</h1> 👋
+<h1 align='center'>Hi, I'm Hatef 👋</h1>
 
-<p align="center">
-  <a href="https://linkedin.com/in/hateftaby"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-00A4FF?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="mailto:tabbakhianhatef@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-FF5555?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <a href="https://github.com/Leotaby"><img alt="GitHub" src="https://img.shields.io/badge/GitHub-222222?style=for-the-badge&logo=github&logoColor=white"/></a>
+<p align='center'>
+  <a href='https://linkedin.com/in/hateftaby'><img alt='LinkedIn' src='https://img.shields.io/badge/LinkedIn-00A4FF?style=for-the-badge&logo=linkedin&logoColor=white'/></a>
+  <a href='mailto:tabbakhianhatef@gmail.com'><img alt='Email' src='https://img.shields.io/badge/Email-FF5555?style=for-the-badge&logo=gmail&logoColor=white'/></a>
+  <a href='https://github.com/Leotaby'><img alt='GitHub' src='https://img.shields.io/badge/GitHub-222222?style=for-the-badge&logo=github&logoColor=white'/></a>
 </p>
 
+### 🧭 About me
 
-### About me
-
-- Based in Naples • open to global opportunities  
-- MSc Economics & Finance (macro + bank stability)  
-- Tooling: Python (pandas, NumPy, statsmodels), R, Stata, SQL, C++, Linux, Git  
-- Interests: risk & capital, econometrics, market microstructure, HFT, automation  
+- 📍 Based in Naples • open to global opportunities  
+- 🎓 MSc Economics & Finance (macro + bank stability)  
+- 🧰 Tooling: Python (pandas, NumPy, statsmodels), R, Stata, SQL, C++, Linux, Git  
+- 🎯 Interests: risk & capital, econometrics, market microstructure, HFT, automation  
 
 ---
 
-### Featured projects
+## 🚀 Featured projects
 
-<p align="center">
-  <a href="https://github.com/Leotaby/nasdaq-itch-parser">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Leotaby&repo=nasdaq-itch-parser&theme=tokyonight&border_color=00FFFF&title_color=00FFFF&text_color=AAAAFF&icon_color=00FFFF" alt="nasdaq-itch-parser"/>
+<p align='center'>
+  <img src='data:image/png;base64,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' width='120' alt='Neon candlestick chart'/>
+</p>
+<p align='center'>
+  <a href='https://github.com/Leotaby/nasdaq-itch-parser'>
+    <img width='420' src='https://opengraph.githubassets.com/1/Leotaby/nasdaq-itch-parser' alt='nasdaq-itch-parser'/>
   </a>
-  <a href="https://github.com/Leotaby/matching-engine">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Leotaby&repo=matching-engine&theme=tokyonight&border_color=00FFFF&title_color=00FFFF&text_color=AAAAFF&icon_color=00FFFF" alt="matching-engine"/>
+  <a href='https://github.com/Leotaby/matching-engine'>
+    <img width='420' src='https://opengraph.githubassets.com/1/Leotaby/matching-engine' alt='matching-engine'/>
   </a>
-
-<p align="center">
-  <a href="https://github.com/Leotaby/BankLab">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Leotaby&repo=BankLab&theme=tokyonight&border_color=00FFFF&title_color=00FFFF&text_color=AAAAFF&icon_color=00FFFF" alt="BankLab"/>
+</p>
+<p align='center'>
+  <a href='https://github.com/Leotaby/BankLab'>
+    <img width='420' src='https://opengraph.githubassets.com/1/Leotaby/BankLab' alt='BankLab'/>
   </a>
-  <a href="https://github.com/Leotaby/latency-cpp-portfolio">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Leotaby&repo=latency-cpp-portfolio&theme=tokyonight&border_color=00FFFF&title_color=00FFFF&text_color=AAAAFF&icon_color=00FFFF" alt="latency-cpp-portfolio"/>
+  <a href='https://github.com/Leotaby/latency-cpp-portfolio'>
+    <img width='420' src='https://opengraph.githubassets.com/1/Leotaby/latency-cpp-portfolio' alt='latency-cpp-portfolio'/>
+  </a>
+</p>
+<p align='center'>
+  <a href='https://github.com/Leotaby/macro-bank-stability-panel'>
+    <img width='420' src='https://opengraph.githubassets.com/1/Leotaby/macro-bank-stability-panel' alt='macro-bank-stability-panel'/>
+  </a>
+  <a href='https://github.com/Leotaby/hedge-fund-credit-risk'>
+    <img width='420' src='https://opengraph.githubassets.com/1/Leotaby/hedge-fund-credit-risk' alt='hedge-fund-credit-risk'/>
+  </a>
+</p>
+<p align='center'>
+  <a href='https://github.com/Leotaby/Indirect-Tax-Portfolio'>
+    <img width='420' src='https://opengraph.githubassets.com/1/Leotaby/Indirect-Tax-Portfolio' alt='Indirect-Tax-Portfolio'/>
   </a>
 </p>
 
-<p align="center">
-  <a href="https://github.com/Leotaby/macro-bank-stability-panel">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Leotaby&repo=macro-bank-stability-panel&theme=tokyonight&border_color=00FFFF&title_color=00FFFF&text_color=AAAAFF&icon_color=00FFFF" alt="macro-bank-stability-panel"/>
-  </a>
-  <a href="https://github.com/Leotaby/hedge-fund-credit-risk">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Leotaby&repo=hedge-fund-credit-risk&theme=tokyonight&border_color=00FFFF&title_color=00FFFF&text_color=AAAAFF&icon_color=00FFFF" alt="hedge-fund-credit-risk"/>
-  </a>
-</p>
+---
 
-<p align="center">
-  <a href="https://github.com/Leotaby/Indirect-Tax-Portfolio">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Leotaby&repo=Indirect-Tax-Portfolio&theme=tokyonight&border_color=00FFFF&title_color=00FFFF&text_color=AAAAFF&icon_color=00FFFF" alt="Indirect-Tax-Portfolio"/>
-  </a>
+### 🛠️ Tools & Tech Stack
+<p align='center'>
+  <img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg' height='42' alt='Python'/>
+  <img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg' height='42' alt='R'/>
+  <img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg' height='42' alt='C++'/>
+  <img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg' height='42' alt='SQL'/>
+  <img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg' height='42' alt='Linux'/>
+  <img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg' height='42' alt='Git'/>
+  <img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg' height='42' alt='Jupyter'/>
+  <img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg' height='42' alt='Pandas'/>
+  <img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg' height='42' alt='NumPy'/>
+  <img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rstudio/rstudio-original.svg' height='42' alt='RStudio'/>
 </p>
 
 ---
 
-### Tools & Tech Stack
-
-<p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="42" alt="Python"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" height="42" alt="R"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="42" alt="C++"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="42" alt="SQL"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="42" alt="Linux"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="42" alt="Git"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="42" alt="Jupyter"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="42" alt="Pandas"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="42" alt="NumPy"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rstudio/rstudio-original.svg" height="42" alt="RStudio"/>
+## 📊 GitHub Stats & Activity
+<p <p align='center'>
+  <img width='420' src='https://github-readme-stats.vercel.app/api?username=Leotaby&show_icons=true&include_all_commits=true&theme=tokyonight&rank_icon=github&border_color=00FFFF&title_color=00FFFF&text_color=AAAAFF&icon_color=00FFFF' alt='GitHub Stats'/>
 </p>
-
-### GitHub Stats & Activity
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Leotaby&show_icons=true&theme=tokyonight&border_color=00FFFF&title_color=00FFFF&text_color=AAAAFF&icon_color=00FFFF&include_all_commits=true&rank_icon=github" height="170" alt="stats"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Leotaby&layout=compact&theme=tokyonight&border_color=00FFFF&title_color=00FFFF&text_color=AAAAFF&langs_count=10&hide=html" height="170" alt="top-languages"/>
+<p align='center'>
+  <img width='420' src='https://github-readme-stats.vercel.app/api/top-langs/?username=Leotaby&layout=compact&theme=tokyonight&border_color=00FFFF&title_color=00FFFF&text_color=00FFFF' alt='Top Languages'/>
 </p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Leotaby&bg_color=0D0D0D&color=00FFFF&line=FF00FF&point=FF00FF&area=true&hide_border=true" alt="activity graph"/>
-</p>
-
----
+<p align='center'>
+  <img src='https://github-readme-activity-graph.vercel.app/graph?username=Leotaby&bg_color=0D0D0D&color=00FFFF&line=FF00FF&point=FF00FF&area=true&hide_border=true' alt='GitHub Activity Graph'/>
 </p>
