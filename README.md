@@ -20,7 +20,7 @@
 
 ### 🧭 About me
 
-- 📍 Based in Naples • open to world opportunities  
+- 📍 Based in Naples • open to global opportunities  
 - 🎓 MSc Economics & Finance (macro + bank stability)  
 - 🧰 Tooling: Python (pandas, NumPy, statsmodels), R, Stata, SQL, C++, Linux, Git  
 - 🎯 Interests: risk & capital, econometrics, market microstructure, HFT, automation
