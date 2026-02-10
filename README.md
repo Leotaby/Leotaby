@@ -31,10 +31,13 @@
 
 <!-- A simple finance chart emoji to evoke neon candlesticks -->
 <p align="center">💹</p>
-
 <p align="center">
   <a href="https://github.com/Leotaby/BankLab">
     <img src="https://img.shields.io/badge/BankLab-00FFFF?style=for-the-badge&labelColor=8A2BE2&color=8A2BE2&logo=github&logoColor=00FFFF" alt="BankLab" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://github.com/Leotaby/vol-surface-builder">
+    <img src="https://img.shields.io/badge/vol--surface--builder-00FFFF?style=for-the-badge&labelColor=8A2BE2&color=8A2BE2&logo=github&logoColor=00FFFF" alt="vol-surface-builder" />
   </a>
 </p>
 <p align="center">
@@ -51,7 +54,6 @@
     <img src="https://img.shields.io/badge/hedge--fund--credit--risk-00FFFF?style=for-the-badge&labelColor=8A2BE2&color=8A2BE2&logo=github&logoColor=00FFFF" alt="hedge-fund-credit-risk" />
   </a>
 </p>
-
 <p align="center">
   <a href="https://github.com/Leotaby/Indirect-Tax-Portfolio">
     <img src="https://img.shields.io/badge/Indirect--Tax--Portfolio-00FFFF?style=for-the-badge&labelColor=8A2BE2&color=8A2BE2&logo=github&logoColor=00FFFF" alt="Indirect-Tax-Portfolio" />
