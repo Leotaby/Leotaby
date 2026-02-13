@@ -29,21 +29,23 @@
 
 ### 🚀 Featured projects
 
-<!-- A simple finance chart emoji to evoke neon candlesticks -->
 <p align="center">💹</p>
 <p align="center">
-   </a>
+  <a href="https://github.com/Leotaby/MicroExchange">
+    <img src="https://img.shields.io/badge/MicroExchange-00FFFF?style=for-the-badge&labelColor=8A2BE2&color=8A2BE2&logo=github&logoColor=00FFFF" alt="MicroExchange" />
+  </a>
   &nbsp;&nbsp;
-  <a href="https://github.com/Leotaby/vol-surface-builder">
-    <img src="https://img.shields.io/badge/vol--surface--builder-00FFFF?style=for-the-badge&labelColor=8A2BE2&color=8A2BE2&logo=github&logoColor=00FFFF" alt="vol-surface-builder" />
-
-  <a href="https://github.com/Leotaby/BankLab">
-    <img src="https://img.shields.io/badge/BankLab-00FFFF?style=for-the-badge&labelColor=8A2BE2&color=8A2BE2&logo=github&logoColor=00FFFF" alt="BankLab" />
-   </a>
+  <a href="https://leotaby.github.io/MicroExchange/">
+    <img src="https://img.shields.io/badge/📊_Live_Dashboard-00FF88?style=for-the-badge&labelColor=0D1117&color=0D1117&logo=plotly&logoColor=00FF88" alt="Live Dashboard" />
+  </a>
 </p>
 <p align="center">
-  <a href="https://github.com/Leotaby/matching-engine">
-    <img src="https://img.shields.io/badge/matching--engine-00FFFF?style=for-the-badge&labelColor=8A2BE2&color=8A2BE2&logo=github&logoColor=00FFFF" alt="matching-engine" />
+  <a href="https://github.com/Leotaby/vol-surface-builder">
+    <img src="https://img.shields.io/badge/vol--surface--builder-00FFFF?style=for-the-badge&labelColor=8A2BE2&color=8A2BE2&logo=github&logoColor=00FFFF" alt="vol-surface-builder" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://github.com/Leotaby/BankLab">
+    <img src="https://img.shields.io/badge/BankLab-00FFFF?style=for-the-badge&labelColor=8A2BE2&color=8A2BE2&logo=github&logoColor=00FFFF" alt="BankLab" />
   </a>
 </p>
 <p align="center">
